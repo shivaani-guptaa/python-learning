@@ -77,65 +77,89 @@
 
 
 
-name = "Shivani"
-age = 20
-course = "BCA"
+# name = "Shivani"
+# age = 20
+# course = "BCA"
 
-print("Name :", name)
-print("Age :", age)
-print("Course :", course)
-
-
-print("\n------------------------------\n")
+# print("Name :", name)
+# print("Age :", age)
+# print("Course :", course)
 
 
-
-#STUDENT PROFILE
-
-name = "Shivani"
-age = 20
-course = "BCA"
-cgpa = 8.7
-city = "Delhi"
-is_pass = True
-
-print("===== STUDENT PROFILE =====")
-print("Name :", name)
-print("Age :", age)
-print("Course :", course)
-print("CGPA :", cgpa)
-print("City :", city)
-print("Pass :", is_pass)
+# print("\n------------------------------\n")
 
 
-print("\n------------------------------\n")
+
+# #STUDENT PROFILE
+
+# name = "Shivani"
+# age = 20
+# course = "BCA"
+# cgpa = 8.7
+# city = "Delhi"
+# is_pass = True
+
+# print("===== STUDENT PROFILE =====")
+# print("Name :", name)
+# print("Age :", age)
+# print("Course :", course)
+# print("CGPA :", cgpa)
+# print("City :", city)
+# print("Pass :", is_pass)
 
 
-#TYPE CHECKING
+# print("\n------------------------------\n")
 
 
-a = 100
-b = 99.99
-c = "Python"
-d = False
-
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
+# #TYPE CHECKING
 
 
-print("\n------------------------------\n")
-#  VARIABLE UPDATE
+# a = 100
+# b = 99.99
+# c = "Python"
+# d = False
+
+# print(type(a))
+# print(type(b))
+# print(type(c))
+# print(type(d))
 
 
-salary = 15000
+# print("\n------------------------------\n")
+# #  VARIABLE UPDATE
 
-print("Old Salary :", salary)
 
-salary = 25000
+# salary = 15000
 
-print("Updated Salary :", salary)
+# print("Old Salary :", salary)
+
+# salary = 25000
+
+# print("Updated Salary :", salary)
+
+# # employ button
+
+# employee_name = "Rahul"
+# employee_id = 101
+# salary = 45000
+# company = "ABC Pvt Ltd"
+
+# print("===== EMPLOYEE DETAILS =====")
+# print("Name :", employee_name)
+# print("ID :", employee_id)
+# print("Salary :", salary)
+# print("Company :", company)
+
+# simple intrest
+
+principal = int(input("enter p :" ))
+rate =int(input ("enter r : "))
+time = int(input ("enter t :"))
+
+si = (principal * rate * time) / 100
+
+print("Simple Interest =", si)
+
 
 
 
