@@ -162,30 +162,30 @@
 
 # Student Report Card
 
-name = input("Enter Student Name: ")
+# name = input("Enter Student Name: ")
 
-math = int(input("Enter Math Marks: "))
-Hindi= int(input("Enter Hindi Marks: "))
-english = int(input("Enter English Marks: "))
-PHYSIC = int(input("Enter physic Marks: "))
-chemistry = int(input("Enter chemistry Marks: "))
+# math = int(input("Enter Math Marks: "))
+# Hindi= int(input("Enter Hindi Marks: "))
+# english = int(input("Enter English Marks: "))
+# PHYSIC = int(input("Enter physic Marks: "))
+# chemistry = int(input("Enter chemistry Marks: "))
 
-total = math + Hindi + english + PHYSIC +chemistry
-average = total / 5
-percentage = (total / 500) * 100
+# total = math + Hindi + english + PHYSIC +chemistry
+# average = total / 5
+# percentage = (total / 500) * 100
 
-print("\n===== STUDENT REPORT CARD =====")
-print("Name       :", name)
-print("Math       :", math)
-print("Hindi    :", Hindi)
-print("English    :", english)
-print("PHYSIC    :", PHYSIC)
-print("chemistry    :", chemistry)
+# print("\n===== STUDENT REPORT CARD =====")
+# print("Name       :", name)
+# print("Math       :", math)
+# print("Hindi    :", Hindi)
+# print("English    :", english)
+# print("PHYSIC    :", PHYSIC)
+# print("chemistry    :", chemistry)
 
-print("------------")
-print("Total      :", total)
-print("Average    :", average)
-print("Percentage :", percentage, "%")
+# print("------------")
+# print("Total      :", total)
+# print("Average    :", average)
+# print("Percentage :", percentage, "%")
 
 
 
