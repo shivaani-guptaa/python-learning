@@ -1,191 +1,191 @@
-# name = "shivani"
-# age = 20
-# price = 25.839
-# age2=age
+name = "shivani"
+age = 20
+price = 25.839
+age2=age
 
-# print(type(name))
-# print(type(age))
-# print(type(price))
-#Arthmetic operators
-# a = 45
-# b = 34
-# print(a+a)
-# print(a-b)
-# print(a * b)
-# print (a/b)
-# print(a%b) # remainder
-# print (a**b) # a^b
+print(type(name))
+print(type(age))
+print(type(price))
+Arthmetic operators
+a = 45
+b = 34
+print(a+a)
+print(a-b)
+print(a * b)
+print (a/b)
+print(a%b) # remainder
+print (a**b) # a^b
 
-#Relational operators 
-# a=40
-# b=40
-# print(a== b)# false
-# print( a!= b) # != is not equal to # true
-# print (a>=b) #true
-# print (a> b) # true
-# print(a<=b)# false
-# print(a <b) #false
+Relational operators 
+a=40
+b=40
+print(a== b)# false
+print( a!= b) # != is not equal to # true
+print (a>=b) #true
+print (a> b) # true
+print(a<=b)# false
+print(a <b) #false
 
-# Assignment operators 
-# num =10
-# num += 10
-# num -= 3
-# num *= 4
-# num /= 8
-# print("num:", num)
+Assignment operators 
+num =10
+num += 10
+num -= 3
+num *= 4
+num /= 8
+print("num:", num)
 
-#Logica operators
-# a = 34
-# b =34
-# print(not False)
-# print(not a>b)
+Logica operators
+a = 34
+b =34
+print(not False)
+print(not a>b)
 
-# val1 =True 
-# val2 = False
-# print("and operator:", val1 and val2)
-# print("or operator:", val1 and val2)
-# print("or operator:", (a== b) or (a>b)) 
+val1 =True 
+val2 = False
+print("and operator:", val1 and val2)
+print("or operator:", val1 and val2)
+print("or operator:", (a== b) or (a>b)) 
 
-# type conversion 
-# a= 2
-# b=45
+type conversion 
+a= 2
+b=45
 
-# print(type(a))
-# print(a+b)
+print(type(a))
+print(a+b)
 
-# input from user 
+input from user 
 
-# name  = input ("enter your name :")
-# age =("enter your age :")
-# marks = ("enter marks:")
+name  = input ("enter your name :")
+age =("enter your age :")
+marks = ("enter marks:")
 
-# print("welcpme " , name)
-# print ("age", age )
-# print ("marks", marks)
+print("welcpme " , name)
+print ("age", age )
+print ("marks", marks)
 
-# home work
-# num1 = input("enter first number :")
-# num2 = input (" enter second number :")
+home work
+num1 = input("enter first number :")
+num2 = input (" enter second number :")
 
-# print ("sum = ",num1 +num2) 
+print ("sum = ",num1 +num2) 
 
-# area of square
-# a = float(input ( "enter 1st number:" ))
-# b = float(input ( "enter 2nd number:" ))
+area of square
+a = float(input ( "enter 1st number:" ))
+b = float(input ( "enter 2nd number:" ))
 
-# print ("average=", (a+b)/2)
-
-
-
-# name = "Shivani"
-# age = 20
-# course = "BCA"
-
-# print("Name :", name)
-# print("Age :", age)
-# print("Course :", course)
-
-
-# print("\n------------------------------\n")
+print ("average=", (a+b)/2)
 
 
 
-# #STUDENT PROFILE
+name = "Shivani"
+age = 20
+course = "BCA"
 
-# name = "Shivani"
-# age = 20
-# course = "BCA"
-# cgpa = 8.7
-# city = "Delhi"
-# is_pass = True
-
-# print("===== STUDENT PROFILE =====")
-# print("Name :", name)
-# print("Age :", age)
-# print("Course :", course)
-# print("CGPA :", cgpa)
-# print("City :", city)
-# print("Pass :", is_pass)
+print("Name :", name)
+print("Age :", age)
+print("Course :", course)
 
 
-# print("\n------------------------------\n")
+print("\n------------------------------\n")
 
 
-# #TYPE CHECKING
+
+#STUDENT PROFILE
+
+name = "Shivani"
+age = 20
+course = "BCA"
+cgpa = 8.7
+city = "Delhi"
+is_pass = True
+
+print("===== STUDENT PROFILE =====")
+print("Name :", name)
+print("Age :", age)
+print("Course :", course)
+print("CGPA :", cgpa)
+print("City :", city)
+print("Pass :", is_pass)
 
 
-# a = 100
-# b = 99.99
-# c = "Python"
-# d = False
-
-# print(type(a))
-# print(type(b))
-# print(type(c))
-# print(type(d))
+print("\n------------------------------\n")
 
 
-# print("\n------------------------------\n")
-# #  VARIABLE UPDATE
+#TYPE CHECKING
 
 
-# salary = 15000
+a = 100
+b = 99.99
+c = "Python"
+d = False
 
-# print("Old Salary :", salary)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
 
-# salary = 25000
 
-# print("Updated Salary :", salary)
+print("\n------------------------------\n")
+#  VARIABLE UPDATE
 
-# # employ button
 
-# employee_name = "Rahul"
-# employee_id = 101
-# salary = 45000
-# company = "ABC Pvt Ltd"
+salary = 15000
 
-# print("===== EMPLOYEE DETAILS =====")
-# print("Name :", employee_name)
-# print("ID :", employee_id)
-# print("Salary :", salary)
-# print("Company :", company)
+print("Old Salary :", salary)
 
-# simple intrest
+salary = 25000
 
-# principal = int(input("enter p :" ))
-# rate =int(input ("enter r : "))
-# time = int(input ("enter t :"))
+print("Updated Salary :", salary)
 
-# si = (principal * rate * time) / 100
+# employ button
 
-# print("Simple Interest =", si)
+employee_name = "Rahul"
+employee_id = 101
+salary = 45000
+company = "ABC Pvt Ltd"
 
-# Student Report Card
+print("===== EMPLOYEE DETAILS =====")
+print("Name :", employee_name)
+print("ID :", employee_id)
+print("Salary :", salary)
+print("Company :", company)
 
-# name = input("Enter Student Name: ")
+simple intrest
 
-# math = int(input("Enter Math Marks: "))
-# Hindi= int(input("Enter Hindi Marks: "))
-# english = int(input("Enter English Marks: "))
-# PHYSIC = int(input("Enter physic Marks: "))
-# chemistry = int(input("Enter chemistry Marks: "))
+principal = int(input("enter p :" ))
+rate =int(input ("enter r : "))
+time = int(input ("enter t :"))
 
-# total = math + Hindi + english + PHYSIC +chemistry
-# average = total / 5
-# percentage = (total / 500) * 100
+si = (principal * rate * time) / 100
 
-# print("\n===== STUDENT REPORT CARD =====")
-# print("Name       :", name)
-# print("Math       :", math)
-# print("Hindi    :", Hindi)
-# print("English    :", english)
-# print("PHYSIC    :", PHYSIC)
-# print("chemistry    :", chemistry)
+print("Simple Interest =", si)
 
-# print("------------")
-# print("Total      :", total)
-# print("Average    :", average)
-# print("Percentage :", percentage, "%")
+Student Report Card
+
+name = input("Enter Student Name: ")
+
+math = int(input("Enter Math Marks: "))
+Hindi= int(input("Enter Hindi Marks: "))
+english = int(input("Enter English Marks: "))
+PHYSIC = int(input("Enter physic Marks: "))
+chemistry = int(input("Enter chemistry Marks: "))
+
+total = math + Hindi + english + PHYSIC +chemistry
+average = total / 5
+percentage = (total / 500) * 100
+
+print("\n===== STUDENT REPORT CARD =====")
+print("Name       :", name)
+print("Math       :", math)
+print("Hindi    :", Hindi)
+print("English    :", english)
+print("PHYSIC    :", PHYSIC)
+print("chemistry    :", chemistry)
+
+print("------------")
+print("Total      :", total)
+print("Average    :", average)
+print("Percentage :", percentage, "%")
 
 
 
