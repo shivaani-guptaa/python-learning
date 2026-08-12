@@ -6,7 +6,7 @@ age2=age
 print(type(name))
 print(type(age))
 print(type(price))
-Arthmetic operators
+# Arthmetic operators
 a = 45
 b = 34
 print(a+a)
@@ -16,7 +16,7 @@ print (a/b)
 print(a%b) # remainder
 print (a**b) # a^b
 
-Relational operators 
+# Relational operators 
 a=40
 b=40
 print(a== b)# false
@@ -26,7 +26,7 @@ print (a> b) # true
 print(a<=b)# false
 print(a <b) #false
 
-Assignment operators 
+# Assignment operators 
 num =10
 num += 10
 num -= 3
@@ -34,7 +34,7 @@ num *= 4
 num /= 8
 print("num:", num)
 
-Logica operators
+# Logica operators
 a = 34
 b =34
 print(not False)
@@ -46,14 +46,14 @@ print("and operator:", val1 and val2)
 print("or operator:", val1 and val2)
 print("or operator:", (a== b) or (a>b)) 
 
-type conversion 
+# type conversion 
 a= 2
 b=45
 
 print(type(a))
 print(a+b)
 
-input from user 
+# input from user 
 
 name  = input ("enter your name :")
 age =("enter your age :")
@@ -63,13 +63,13 @@ print("welcpme " , name)
 print ("age", age )
 print ("marks", marks)
 
-home work
+# home work
 num1 = input("enter first number :")
 num2 = input (" enter second number :")
 
 print ("sum = ",num1 +num2) 
 
-area of square
+# area of square
 a = float(input ( "enter 1st number:" ))
 b = float(input ( "enter 2nd number:" ))
 
@@ -150,7 +150,7 @@ print("ID :", employee_id)
 print("Salary :", salary)
 print("Company :", company)
 
-simple intrest
+# simple intrest
 
 principal = int(input("enter p :" ))
 rate =int(input ("enter r : "))
@@ -160,7 +160,7 @@ si = (principal * rate * time) / 100
 
 print("Simple Interest =", si)
 
-Student Report Card
+# Student Report Card
 
 name = input("Enter Student Name: ")
 
